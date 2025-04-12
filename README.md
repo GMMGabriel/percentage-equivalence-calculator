@@ -8,8 +8,6 @@ Uma aplicação interativa desenvolvida com [Streamlit](https://streamlit.io) qu
 
 [🔗 Acesse aqui a aplicação online](https://percentage-equivalence-calculator-gmm.streamlit.app/)
 
----
-
 ## ✨ Funcionalidades
 
 - Inserção de uma sequência de variações percentuais (ex: `20, -10, 4.5`);
@@ -17,14 +15,10 @@ Uma aplicação interativa desenvolvida com [Streamlit](https://streamlit.io) qu
 - Cálculo do valor final e do percentual equivalente total;
 - Interface responsiva e estilizada com cores indicativas (ganho/perda).
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [Python 3.13+](https://www.python.org/)
 - [Streamlit 1.44.1](https://streamlit.io)
-
----
 
 ## 💻 Como usar localmente
 
@@ -54,8 +48,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
 ## 📦 Deploy
 
 Você pode facilmente hospedar a aplicação usando o Streamlit Cloud:
@@ -68,13 +60,9 @@ Você pode facilmente hospedar a aplicação usando o Streamlit Cloud:
 
 4. Clique em Deploy.
 
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a MIT License.
-
----
 
 ## 👨‍💻 Autor
 
